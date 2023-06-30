@@ -1,0 +1,23 @@
+
+6월 14, 2023 16:54:51.77 NEW SESSION
+6월 14, 2023 16:54:51.77 [15928:12732:0614/165451.768:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 14, 2023 16:54:51.77 [15928:12732:0614/165451.768:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+6월 20, 2023 11:19:18.30 NEW SESSION
+6월 20, 2023 11:19:18.30 [1804:6740:0620/111918.301:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 20, 2023 13:20:19.30 [1804:6740:0620/132019.306:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+6월 20, 2023 14:21:59.59 [1804:6740:0620/142159.592:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+6월 20, 2023 16:24:07.54 [12884:2820:0620/162407.544:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 20, 2023 16:25:31.66 [12884:2820:0620/162531.667:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+6월 23, 2023 10:15:06.29 NEW SESSION
+6월 23, 2023 10:15:06.29 [11724:3184:0623/101506.285:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 23, 2023 10:15:06.30 [11724:3184:0623/101506.285:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 23, 2023 13:38:11.21 [11724:3184:0623/133811.215:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 23, 2023 13:40:25.21 [11724:3184:0623/134025.215:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+6월 23, 2023 13:40:35.55 [11724:3184:0623/134035.556:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+6월 26, 2023 15:38:54.69 NEW SESSION
+6월 26, 2023 15:38:54.69 [11828:13028:0626/153854.677:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 26, 2023 15:38:54.70 [11828:13028:0626/153854.677:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 26, 2023 17:37:46.16 [11828:13028:0626/173746.164:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost

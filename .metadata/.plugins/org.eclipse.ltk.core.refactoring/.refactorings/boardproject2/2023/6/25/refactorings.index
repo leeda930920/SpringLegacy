@@ -1,0 +1,15 @@
+1687155843204	Rename resource 'Include'
+1687163009248	Delete element
+1687227712477	Rename package 'ko.co.tjoeun.beans'
+1687228791527	Rename type 'userTable'
+1687228795008	Rename type 'boardInfoTable'
+1687234765598	Rename resource 'Mapper'
+1687234798484	Rename resource 'boardmapper.xml'
+1687235194155	Delete element
+1687235667625	Copy folder
+1687237541122	Copy packages
+1687237561170	Copy package
+1687238266193	Copy elements
+1687238373867	Copy package
+1687248950796	Move 'properties' to 'WebContent'
+1687249316926	Move 'properties' to 'WEB-INF'

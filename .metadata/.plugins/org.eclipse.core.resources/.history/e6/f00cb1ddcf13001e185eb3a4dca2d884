@@ -1,0 +1,16 @@
+package kr.co.tjoeun.bean;
+
+import lombok.Data;
+
+// content_table
+// @Data
+public class ContentBean {
+  private int content_idx;
+  private String contentSubject;
+  private String contentText;
+  private String content_file;
+  private int contentWriterIdx;
+  private int contentBoardIdx;
+  private String contentDate;
+
+}

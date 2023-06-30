@@ -1,0 +1,10 @@
+package kr.co.tjoeun.interceptor;
+
+import org.springframework.web.servlet.HandlerInterceptor;
+
+public class CheckLoginInterceptor implements HandlerInterceptor{
+	
+	// java 방식에서는 interceptor 에서 bean 이 자동 주입이 안됨
+	private userBean loginUserBean;
+
+}

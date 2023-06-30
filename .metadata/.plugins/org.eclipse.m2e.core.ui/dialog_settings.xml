@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="boardproject4"/>
+			<item value="boardproject2Xml"/>
+			<item value="boardproject"/>
+			<item value="ExceptionHandling"/>
+			<item value="InterceptorXml"/>
+			<item value="InterCepter"/>
+			<item value="RestfulAPI"/>
+			<item value="MyBatis"/>
+			<item value="Validator"/>
+			<item value="JSR_380"/>
+			<item value="JSR_303"/>
+			<item value="validate2"/>
+			<item value="validate"/>
+			<item value="message"/>
+			<item value="properties"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="boardproject4"/>
+			<item value="boardproject2Xml"/>
+			<item value="boardproject"/>
+			<item value="ExceptionHandling"/>
+			<item value="InterceptorXml"/>
+			<item value="InterCepter"/>
+			<item value="RestfulAPI"/>
+			<item value="MyBatis"/>
+			<item value="Validator"/>
+			<item value="JSR_380"/>
+			<item value="JSR_303"/>
+			<item value="validate2"/>
+			<item value="validate"/>
+			<item value="message"/>
+			<item value="properties"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

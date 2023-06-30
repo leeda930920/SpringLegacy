@@ -1,0 +1,6 @@
+package kr.co.tjoeun.interceptor;
+
+
+public class CheckWriteInterceptor {
+
+}

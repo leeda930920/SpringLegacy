@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TestBean1.java&apos; to &apos;Validator/src/kr.co.tjoeun.beans&apos;&#x0D;&#x0A;- Original project: &apos;JSR_380&apos;&#x0D;&#x0A;- Destination element: &apos;Validator/src/kr.co.tjoeun.beans&apos;&#x0D;&#x0A;- Original element: &apos;kr.co.tjoeun.beans.TestBean1.java&apos;" description="Copy compilation unit" destination="=Validator/src&lt;kr.co.tjoeun.beans" element1="/src&lt;kr.co.tjoeun.beans{TestBean1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1686726370162" units="1" version="1.0"/>
+</session>
